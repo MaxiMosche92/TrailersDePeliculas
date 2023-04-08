@@ -1,0 +1,48 @@
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\Datos.dll.config
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\Datos.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\Entidades.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\EntityFramework.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\Entidades.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\EntityFramework.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\obj\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Datos\obj\Debug\Datos.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\Datos.dll.config
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\Datos.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\Entidades.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\Entidades.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\obj\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Datos\obj\Debug\Datos.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\Datos.dll.config
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\Datos.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\Entidades.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\EntityFramework.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\Entidades.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\EntityFramework.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\obj\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Datos\obj\Debug\Datos.pdb

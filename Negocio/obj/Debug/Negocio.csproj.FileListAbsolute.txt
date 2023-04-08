@@ -1,0 +1,30 @@
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\Negocio.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\Entidades.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\Datos.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\Datos.dll.config
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\obj\Debug\Negocio.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\Negocio.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\Datos.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\Entidades.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\Datos.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\Datos.dll.config
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\obj\Debug\Negocio.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\11 TERMINADA\borrador2\Negocio\obj\Debug\Negocio.pdb

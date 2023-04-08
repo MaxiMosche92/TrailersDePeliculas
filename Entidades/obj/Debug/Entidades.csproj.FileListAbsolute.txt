@@ -1,0 +1,6 @@
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Entidades\bin\Debug\Entidades.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Entidades\obj\Debug\Entidades.dll
+C:\Users\sebab\Desktop\estudio\Paginapelis\C#DEPAGINA\10 Estructura En Capas\borrador\Entidades\obj\Debug\Entidades.pdb
